@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BitcoinWidget</string>
+    <string name="one_bitcoin">1 bitcoin:</string>
+    <string name="value_dollar" formatted="true">%f $</string>
+    <string name="update">refresh</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
